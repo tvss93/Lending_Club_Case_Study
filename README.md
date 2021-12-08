@@ -18,7 +18,6 @@ In this case study, you will use EDA to understand how consumer attributes and l
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Observations From Univariate Analysis:
 
 1. Loans with higher loan amount or interest rate are more likely to default
 2. Loans with lower grades(D,E,F,G) or for higher loan terms are more likely to default
