@@ -20,16 +20,12 @@ In this case study, you will use EDA to understand how consumer attributes and l
 ## Conclusions
 - Observations From Univariate Analysis:
 
-1. Greater than 55% of loans are in grades B,A
-2. Nearly 85% of loans are in Rent and Mortgage ownership
-3. ~50% of purposes are either debt consolidation or credit card
-4. Mostly of the customers do not have any publicly recorded bankrupties
-5. ~75% of loans are granted under 36 months terms
+1. Loans with higher loan amount or interest rate are more likely to default
+2. Loans with lower grades(D,E,F,G) or for higher loan terms are more likely to default
+3. Applicants with lower annual incomes, higher credit utilization, number of credit enquires, bankruptcies are more likely to default
+4. Loans for small businesses are more riskier
+5. Loans issued in Nevada have an unusually high default rates. This needs to be investigated further
 
-- Conclusion 2 from the analysis
-
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
